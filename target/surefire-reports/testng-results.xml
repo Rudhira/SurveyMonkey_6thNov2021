@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="42523" started-at="2021-11-09T21:56:08 EST" finished-at="2021-11-09T21:56:51 EST">
+    <groups>
+    </groups>
+    <test name="TC004_OrangeHRMApplication" duration-ms="42523" started-at="2021-11-09T21:56:08 EST" finished-at="2021-11-09T21:56:51 EST">
+      <class name="TC004_OrangeHRMApplication">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:TC004_OrangeHRMApplication@28d25987]" name="openApplication" is-config="true" duration-ms="12289" started-at="2021-11-09T21:56:09 EST" finished-at="2021-11-09T21:56:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="verifyApplication()[pri:1, instance:TC004_OrangeHRMApplication@28d25987]" name="verifyApplication" duration-ms="131" started-at="2021-11-09T21:56:21 EST" finished-at="2021-11-09T21:56:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyApplication -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:TC004_OrangeHRMApplication@28d25987]" name="closeApplication" is-config="true" duration-ms="214" started-at="2021-11-09T21:56:21 EST" finished-at="2021-11-09T21:56:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:TC004_OrangeHRMApplication@28d25987]" name="openApplication" is-config="true" duration-ms="12395" started-at="2021-11-09T21:56:21 EST" finished-at="2021-11-09T21:56:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="verifyForgotPassword()[pri:2, instance:TC004_OrangeHRMApplication@28d25987]" name="verifyForgotPassword" duration-ms="356" started-at="2021-11-09T21:56:34 EST" finished-at="2021-11-09T21:56:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPassword -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:TC004_OrangeHRMApplication@28d25987]" name="closeApplication" is-config="true" duration-ms="184" started-at="2021-11-09T21:56:34 EST" finished-at="2021-11-09T21:56:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:TC004_OrangeHRMApplication@28d25987]" name="openApplication" is-config="true" duration-ms="12281" started-at="2021-11-09T21:56:34 EST" finished-at="2021-11-09T21:56:46 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="login()[pri:3, instance:TC004_OrangeHRMApplication@28d25987]" name="login" duration-ms="4338" started-at="2021-11-09T21:56:46 EST" finished-at="2021-11-09T21:56:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:TC004_OrangeHRMApplication@28d25987]" name="closeApplication" is-config="true" duration-ms="237" started-at="2021-11-09T21:56:51 EST" finished-at="2021-11-09T21:56:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- TC004_OrangeHRMApplication -->
+    </test> <!-- TC004_OrangeHRMApplication -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
