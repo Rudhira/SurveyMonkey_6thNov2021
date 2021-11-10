@@ -13,23 +13,5 @@
 
         </classes>
     </test>
-    <test name="TC005_EnabledConcept">
 
-        <classes>
-            <class name="TC005_EnabledConcept">
-
-            </class>
-
-        </classes>
-    </test>
-
-    <test name="TC007_DataProviderConcept">
-
-        <classes>
-            <class name="TC007_DataProviderConcept">
-
-            </class>
-
-        </classes>
-    </test>
 </suite>
